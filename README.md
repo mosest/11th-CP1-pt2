@@ -1,2 +1,6 @@
 # 11th-CP1-pt2
-Fall 2013, Java 1
+Junior year at ASMSA! Fall semester, I think?
+
+Assignment 1: Just pictures, not included in this repo
+
+Assignments 2-7: I'll just add this later... :^)
