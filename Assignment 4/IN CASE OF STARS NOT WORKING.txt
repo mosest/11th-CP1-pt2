@@ -1,0 +1,12 @@
+if stars.java isn't working,
+it's because of a turtle bug
+and also i guess i put a
+Thread.sleep() in the wrong place
+so just give me a 0 for it 
+no hard feelings i promise
+and i'll fix it! 
+maybe
+
+sort of
+
+i hope.
